@@ -1,0 +1,47 @@
+n8n video (atleast 20 min)
+
+fill the gst registration form
+
+study for exam (atleast 20 min)
+
+do the xperience quiz (atleast 2 sets)
+
+Plan kannurtalents website
+
+Find customers for warehouse rent
+
+
+
+
+IIIII
+
+
+II
+
+
+
+
+
+
+
+##Input
+A travel itinerary sent by an outside company.
+
+##Output
+A proper travel itinerary made by my company with my company logo and in easily customer readable format.
+
+##Format of output
+
+"Welcome Tours and travels | Chennai Private limited" On top left in a box with a logo to its left.
+"Welcome tours and travels" on the top right in slightly bigger font.
+A blue box below with the heading of the tour (Example: "Malaysia tour"), Travel date, duration, number of travellers showing number of adults and children.
+Then a trip description.
+Then a trip overview. In this, show the following:
+. trip id
+. destination
+. start date
+. trip duration
+. Day 1, 2, 3... (arrival, transfers, activities, hotel, meals, highlights)
+Inclusions
+Exclusions
+Additional Notes
